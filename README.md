@@ -1,6 +1,8 @@
-![logo](http://iapploft.net/imgs/battle_icon.jpg)
+<img  style="border-radius: 15px;" src="http://iapploft.net/imgs/battle_icon.jpg" width = "150" height = "150" alt="logo" align=center />
 # battleblocks-server
 
-如果你觉的这个对你有用，并原因的话请我喝杯咖啡吧！😢
 
-![donate](http://iapploft.net/imgs/WechatIMG15.jpeg)
+如果你觉的这个对你有用或愿意的话请我喝杯咖啡吧！😢
+
+<img  style="border-radius: 15px;" src="http://iapploft.net/imgs/WechatIMG15.jpeg" width = "300" height = "400" alt="donate" align=center />
+ 
